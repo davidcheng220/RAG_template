@@ -1,9 +1,0 @@
-langchain
-streamlit
-unstructured
-unstructured[pdf]
-chromadb
-sentence-transformers 
-langchain-community
-langchain-openai
-python-magic-bin  
